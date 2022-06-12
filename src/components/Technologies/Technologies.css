@@ -75,5 +75,5 @@
   width: 100px;
   height: 100px;
   border-radius: 50%;
-  color: bisque;
+  background-color: var(--purple);
 }
